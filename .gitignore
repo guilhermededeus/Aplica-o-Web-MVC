@@ -1,0 +1,47 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Others
+*.dbmdl
+*.bak
+*.ldf
+*.mdf
+
+# ASP.NET temporary files
+*.tmp
+*.temp
+*.log
+*.vspscc
+
+# Publish output
+publish/
+out/
+wwwroot/dist/
+wwwroot/node_modules/
+
+# Packages
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Node.js (se usar front)
+node_modules/
+
+# dotenv
+.env
